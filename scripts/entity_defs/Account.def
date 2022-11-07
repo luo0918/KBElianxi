@@ -1,0 +1,21 @@
+<root>
+	<Properties>
+	</Properties>
+
+	<ClientMethods>
+         <OnSay>
+	        <Arg>	CHAI_INFO   </Arg>
+	     </OnSay>
+	</ClientMethods>
+
+	<BaseMethods>
+	</BaseMethods>
+
+	<CellMethods>
+	    <ESay>
+	        <Exposed/>
+	        <Arg>			UNICODE				</Arg>
+	    </ESay>
+	</CellMethods>
+
+</root>

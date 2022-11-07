@@ -1,0 +1,22 @@
+<root>
+	<Properties>
+	    <Name>
+			<Type>			UNICODE				</Type>
+			<Flags>			BASE        		</Flags>
+		</Name>
+		<Count>
+			<Type>			UINT8				</Type>
+			<Flags>			BASE				</Flags>
+		</Count>
+	</Properties>
+
+	<ClientMethods>
+	</ClientMethods>
+
+	<BaseMethods>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+</root>

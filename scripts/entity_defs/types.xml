@@ -1,0 +1,17 @@
+<root>
+    <CHAI_INFO>	FIXED_DICT
+        <implementedBy>CHAI_INFO.ChatInfoInst</implementedBy>
+        <Properties>
+            <Name>
+                <Type>	UNICODE	</Type>
+            </Name>
+             <Time>
+                <Type>	UNICODE	</Type>
+            </Time>
+             <Msg>
+                <Type>	UNICODE	</Type>
+            </Msg>
+        </Properties>
+    </CHAI_INFO>
+
+</root>
